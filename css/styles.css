@@ -1,19 +1,39 @@
 * {
   color: white;
+  background: #16a086;
+  text-align: center;
 }
 
-.column1 {
-  background: #7cdbd5;
+a {
+  text-decoration: none;
 }
 
-.column2 {
-  background: #f53240;
+a:hover {
+  color: #000000;
 }
 
-.column3 {
-  background: #f9be02;
+#header {
+  font-family: 'Josefin Sans', sans-serif;
 }
 
-.column4 {
-  background: #02c8a7;
+.section {
+  padding: 180px;
+  line-height: 10px
 }
+
+#name {
+  font-size: 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#about {
+  font-size: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#footer {
+  padding: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
