@@ -24,6 +24,7 @@ a:hover {
 #name {
   font-size: 50px;
   font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
 }
 
 #about {
@@ -32,7 +33,6 @@ a:hover {
 }
 
 #footer {
-  padding: 20px;
   font-family: 'Josefin Sans', sans-serif;
 }
 

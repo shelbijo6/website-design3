@@ -1,0 +1,5 @@
+@media and screen (max-width: 480px) {
+  .section {
+    font-size: 10px;
+  }
+}
